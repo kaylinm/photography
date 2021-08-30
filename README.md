@@ -1,3 +1,18 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://kaylinm.github.io/photography">
+    <img src="src/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Kaylin Moss Photography Portfolio</h3>
+
+  <p align="center">
+  Caputing the Emotions of the Earth
+    <br />
+  </p>
+</p>
+
 ### Built With
 * [React](https://reactjs.org)
 * [Github Pages](https://pages.github.com/)
