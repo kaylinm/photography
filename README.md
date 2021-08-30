@@ -10,7 +10,7 @@
   <p align="center">
   Capturing the Emotions of the Earth
     <br />
-  <img src="https://kaylinm.github.io/static/media/photographyGIF.a379d42f.gif" alt="Photography Portfolio GIF">
+  
   </p>
 </p>
 
