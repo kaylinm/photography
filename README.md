@@ -8,7 +8,7 @@
   <h3 align="center">Kaylin Moss Photography Portfolio</h3>
 
   <p align="center">
-  Caputing the Emotions of the Earth
+  Capturing the Emotions of the Earth
     <br />
   </p>
 </p>
