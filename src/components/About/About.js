@@ -40,8 +40,7 @@ const About = () => {
             <br />
             While charming southern coastlines are incorporated in Kaylin's
             work, her adventures bring her far from home. She is continually
-            exploring new forests, mountains, and terrains along the U.S.
-            eastern coast.
+            exploring new forests, mountains, and terrains in the U.S.
             <br />
             <br />
             See how she bends tradition in her{" "}
