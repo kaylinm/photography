@@ -13,8 +13,10 @@ import nostalgia7 from "./full-size/nostalgia7.jpg";
 import nostalgia8 from "./full-size/nostalgia8.jpg";
 import nostalgia9 from "./full-size/nostalgia9.JPG";
 import nostalgia10 from "./full-size/nostalgia10.jpg";
-import nostalgia11 from "./full-size/nostalgia11.jpeg";
-import nostalgia12 from "./full-size/nostalgia12.jpeg";
+import nostalgia11 from "./full-size/nostalgia11.jpg";
+import nostalgia12 from "./full-size/nostalgia12.jpg";
+import nostalgia13 from "./full-size/nostalgia13.jpg";
+import nostalgia14 from "./full-size/nostalgia14.jpg";
 
 import nostalgia1thumbnail from "./thumbnails/nostalgia1thumbnail.jpg";
 import nostalgia2thumbnail from "./thumbnails/nostalgia2thumbnail.jpg";
@@ -28,6 +30,8 @@ import nostalgia9thumbnail from "./thumbnails/nostalgia9thumbnail.jpg";
 import nostalgia10thumbnail from "./thumbnails/nostalgia10thumbnail.jpg";
 import nostalgia11thumbnail from "./thumbnails/nostalgia11thumbnail.jpg";
 import nostalgia12thumbnail from "./thumbnails/nostalgia12thumbnail.jpg";
+import nostalgia13thumbnail from "./thumbnails/nostalgia13thumbnail.jpg";
+import nostalgia14thumbnail from "./thumbnails/nostalgia14thumbnail.jpg";
 
 const Nostalgia = () => {
   return (
@@ -37,6 +41,13 @@ const Nostalgia = () => {
           <img
             src={nostalgia1thumbnail}
             alt="Timeless - Mount Pleasant, South Carolina"
+          />
+        </a>
+
+        <a href={nostalgia12}>
+          <img
+            src={nostalgia12thumbnail}
+            alt="Future Selfs - Cacique, Colon, Panama"
           />
         </a>
 
@@ -67,6 +78,12 @@ const Nostalgia = () => {
             alt="Our Last Sunrise - Amelia Island, Florida"
           />
         </a>
+        <a href={nostalgia14}>
+          <img
+            src={nostalgia14thumbnail}
+            alt="Golden Reflections - Cacique, Colon, Panama"
+          />
+        </a>
 
         <a href={nostalgia6}>
           <img src={nostalgia6thumbnail} alt="Youth - Huger, South Carolina" />
@@ -76,6 +93,12 @@ const Nostalgia = () => {
           <img
             src={nostalgia7thumbnail}
             alt="Long Term Memory - Mount Pleasant, South Carolina"
+          />
+        </a>
+        <a href={nostalgia11}>
+          <img
+            src={nostalgia11thumbnail}
+            alt="Flowing Fantasies - Cacique, Colon, Panama"
           />
         </a>
 
@@ -93,24 +116,17 @@ const Nostalgia = () => {
           />
         </a>
 
+        <a href={nostalgia13}>
+          <img
+            src={nostalgia13thumbnail}
+            alt="REM Sleep - Cacique, Colon, Panama"
+          />
+        </a>
+
         <a href={nostalgia10}>
           <img
             src={nostalgia10thumbnail}
-            alt="Cinnamon Breeze - Saint Peter, Minnesota"
-          />
-        </a>
-
-        <a href={nostalgia11}>
-          <img
-            src={nostalgia11thumbnail}
-            alt="Slowly, We Walked - Joshua Tree, California"
-          />
-        </a>
-
-        <a href={nostalgia12}>
-          <img
-            src={nostalgia12thumbnail}
-            alt="Subtle shades - Cornwall, New York"
+            alt="Fabric of Fairytales - Cacique, Colon, Panama"
           />
         </a>
       </SRLWrapper>

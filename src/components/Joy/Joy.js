@@ -25,6 +25,9 @@ import joy19 from "./full-size/joy19.jpeg";
 import joy20 from "./full-size/joy20.jpeg";
 import joy21 from "./full-size/joy21.jpeg";
 import joy22 from "./full-size/joy22.png";
+import joy23 from "./full-size/joy23.jpg";
+import joy24 from "./full-size/joy24.jpg";
+import joy25 from "./full-size/joy25.jpeg";
 
 import joy1thumbnail from "./thumbnails/joy1thumbnail.jpg";
 import joy2thumbnail from "./thumbnails/joy2thumbnail.jpg";
@@ -48,6 +51,9 @@ import joy19thumbnail from "./thumbnails/joy19thumbnail.jpg";
 import joy20thumbnail from "./thumbnails/joy20thumbnail.jpg";
 import joy21thumbnail from "./thumbnails/joy21thumbnail.jpg";
 import joy22thumbnail from "./thumbnails/joy22thumbnail.jpg";
+import joy23thumbnail from "./thumbnails/joy23thumbnail.jpg";
+import joy24thumbnail from "./thumbnails/joy24thumbnail.jpg";
+import joy25thumbnail from "./thumbnails/joy25thumbnail.jpg";
 
 const Joy = () => {
   return (
@@ -183,6 +189,24 @@ const Joy = () => {
           <img
             src={joy22thumbnail}
             alt="Glimpses of Home - Cornwall, New York"
+          />
+        </a>
+
+        <a href={joy23}>
+          <img src={joy23thumbnail} alt="Come Aboard - Isla Mamey, Panama" />
+        </a>
+
+        <a href={joy24}>
+          <img
+            src={joy24thumbnail}
+            alt="Cinnamon Breeze - Saint Peter, Minnesota"
+          />
+        </a>
+
+        <a href={joy25}>
+          <img
+            src={joy25thumbnail}
+            alt="Slowly, We Walked - Joshua Tree, California"
           />
         </a>
       </SRLWrapper>

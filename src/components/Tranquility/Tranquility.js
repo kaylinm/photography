@@ -168,3 +168,11 @@ const Tranquility = () => {
 };
 
 export default Tranquility;
+/*
+<a href={nostalgia12}>
+          <img
+            src={nostalgia12thumbnail}
+            alt="Subtle shades - Cornwall, New York"
+          />
+        </a>
+ */

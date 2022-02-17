@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <section className="footer">
-      <p>&copy;COPYRIGHT KAYLIN MOSS 2021</p>
+      <p>&copy;COPYRIGHT KAYLIN MOSS 2022</p>
     </section>
   );
 };
