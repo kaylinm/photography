@@ -19,7 +19,13 @@ import tranquility13 from "./full-size/tranquility13.jpeg";
 import tranquility14 from "./full-size/tranquility14.jpeg";
 import tranquility15 from "./full-size/tranquility15.jpg";
 import tranquility16 from "./full-size/tranquility16.jpeg";
-import tranquility17 from "./full-size/tranquility17.jpeg";
+import tranquility18 from "./full-size/tranquility18.jpeg";
+import tranquility19 from "./full-size/tranquility19.jpg";
+import tranquility20 from "./full-size/tranquility20.jpg";
+import tranquility21 from "./full-size/tranquility21.jpg";
+import tranquility22 from "./full-size/tranquility22.jpg";
+import tranquility23 from "./full-size/tranquility23.jpg";
+import tranquility17 from "./full-size/tranquility17.jpg";
 
 import tranquility1thumbnail from "./thumbnails/tranquility1thumbnail.jpg";
 import tranquility2thumbnail from "./thumbnails/tranquility2thumbnail.jpg";
@@ -37,6 +43,12 @@ import tranquility13thumbnail from "./thumbnails/tranquility13thumbnail.jpg";
 import tranquility14thumbnail from "./thumbnails/tranquility14thumbnail.jpg";
 import tranquility15thumbnail from "./thumbnails/tranquility15thumbnail.jpg";
 import tranquility16thumbnail from "./thumbnails/tranquility16thumbnail.jpg";
+import tranquility18thumbnail from "./thumbnails/tranquility18thumbnail.jpg";
+import tranquility19thumbnail from "./thumbnails/tranquility19thumbnail.jpg";
+import tranquility20thumbnail from "./thumbnails/tranquility20thumbnail.jpg";
+import tranquility21thumbnail from "./thumbnails/tranquility21thumbnail.jpg";
+import tranquility22thumbnail from "./thumbnails/tranquility22thumbnail.jpg";
+import tranquility23thumbnail from "./thumbnails/tranquility23thumbnail.jpg";
 import tranquility17thumbnail from "./thumbnails/tranquility17thumbnail.jpg";
 
 const Tranquility = () => {
@@ -102,7 +114,7 @@ const Tranquility = () => {
         <a href={tranquility9}>
           <img
             src={tranquility9thumbnail}
-            alt="River Sounds - Poughkeepsie, New York"
+            alt="Hearty Remnants - Mount Pleasant, South Carolina"
           />
         </a>
 
@@ -155,10 +167,52 @@ const Tranquility = () => {
           />
         </a>
 
+        <a href={tranquility18}>
+          <img
+            src={tranquility18thumbnail}
+            alt="Subtle Shades - Cornwall, New York"
+          />
+        </a>
+
+        <a href={tranquility19}>
+          <img
+            src={tranquility19thumbnail}
+            alt="Restful Meditations - Panama City, Panama"
+          />
+        </a>
+
+        <a href={tranquility20}>
+          <img
+            src={tranquility20thumbnail}
+            alt="Solid Foundation - Portobelo, Panama"
+          />
+        </a>
+
+        <a href={tranquility21}>
+          <img
+            src={tranquility21thumbnail}
+            alt="Where Cities Bloom - Panama City, Panama"
+          />
+        </a>
+
+        <a href={tranquility22}>
+          <img
+            src={tranquility22thumbnail}
+            alt="Nurturing Roots - Cacique, Colon, Panama"
+          />
+        </a>
+
+        <a href={tranquility23}>
+          <img
+            src={tranquility23thumbnail}
+            alt="Rigid Thoughts among Calm Waters - Cacique, Colon, Panama"
+          />
+        </a>
+
         <a href={tranquility17}>
           <img
             src={tranquility17thumbnail}
-            alt="Slow Start- Poughkeepsie, New York"
+            alt="Enclosure of Serenity - Portobelo, Panama"
           />
         </a>
       </SRLWrapper>
@@ -168,11 +222,3 @@ const Tranquility = () => {
 };
 
 export default Tranquility;
-/*
-<a href={nostalgia12}>
-          <img
-            src={nostalgia12thumbnail}
-            alt="Subtle shades - Cornwall, New York"
-          />
-        </a>
- */

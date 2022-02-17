@@ -156,7 +156,7 @@ const Despair = () => {
         <a href={despair22}>
           <img
             src={despair22thumbnail}
-            alt="Home is somewhere  - Portobelo, Panama"
+            alt="Home is Somewhere  - Portobelo, Panama"
           />
         </a>
         <a href={despair16}>
