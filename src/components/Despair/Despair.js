@@ -149,7 +149,7 @@ const Despair = () => {
         <a href={despair15}>
           <img
             src={despair15thumbnail}
-            alt="Scratches at Sea  - Cacique, Colon, Panama"
+            alt="Scratches at Sea  - Cacique, Colón, Panama"
           />
         </a>
 
@@ -162,7 +162,7 @@ const Despair = () => {
         <a href={despair16}>
           <img
             src={despair16thumbnail}
-            alt="We Built this Cage  - Cacique, Colon, Panama"
+            alt="We Built this Cage  - Isla Mamey, Colón, Panama"
           />
         </a>
 
@@ -176,14 +176,14 @@ const Despair = () => {
         <a href={despair18}>
           <img
             src={despair18thumbnail}
-            alt="Stunted Growth  - Isla Mamey, Colon, Panama"
+            alt="Stunted Growth  - Isla Mamey, Colón, Panama"
           />
         </a>
 
         <a href={despair19}>
           <img
             src={despair19thumbnail}
-            alt="Wave Goodbye  - Cacique, Colon, Panama"
+            alt="Wave Goodbye  - Cacique, Colón, Panama"
           />
         </a>
 
@@ -204,14 +204,14 @@ const Despair = () => {
         <a href={despair24}>
           <img
             src={despair24thumbnail}
-            alt="Sharp Stabs - Isla Mamey, Panama"
+            alt="Sharp Stabs - Isla Mamey, Colón, Panama"
           />
         </a>
 
         <a href={despair25}>
           <img
             src={despair25thumbnail}
-            alt="Isolated Fruit - Isla Mamey, Panama"
+            alt="Isolated Fruit - Isla Mamey, Colón, Panama"
           />
         </a>
       </SRLWrapper>
