@@ -70,7 +70,10 @@ const Despair = () => {
     <section className="gallery">
       <SRLWrapper>
         <a href={despair30}>
-          <img src={despair30thumbnail} alt=" - Rum Point, Cayman Islands" />
+          <img
+            src={despair30thumbnail}
+            alt="Reach - Rum Point, Cayman Islands"
+          />
         </a>
 
         <a href={despair1}>
@@ -142,7 +145,10 @@ const Despair = () => {
         </a>
 
         <a href={despair13}>
-          <img src={despair13thumbnail} alt="- West Bay, Cayman Islands" />
+          <img
+            src={despair13thumbnail}
+            alt="Smudges - West Bay, Cayman Islands"
+          />
         </a>
 
         <a href={despair14}>
@@ -219,7 +225,10 @@ const Despair = () => {
         </a>
 
         <a href={despair26}>
-          <img src={despair26thumbnail} alt=" - Rum Point, Cayman Islands" />
+          <img
+            src={despair26thumbnail}
+            alt="Wealth is ? - Rum Point, Cayman Islands"
+          />
         </a>
         <a href={despair20}>
           <img
@@ -228,13 +237,22 @@ const Despair = () => {
           />
         </a>
         <a href={despair27}>
-          <img src={despair27thumbnail} alt=" - Rum Point, Cayman Islands" />
+          <img
+            src={despair27thumbnail}
+            alt=" Needed in Time- Rum Point, Cayman Islands"
+          />
         </a>
         <a href={despair28}>
-          <img src={despair28thumbnail} alt=" - West Bay, Cayman Islands" />
+          <img
+            src={despair28thumbnail}
+            alt="We Can't Leave- West Bay, Cayman Islands"
+          />
         </a>
         <a href={despair29}>
-          <img src={despair29thumbnail} alt=" - West Bay, Cayman Islands" />
+          <img
+            src={despair29thumbnail}
+            alt="No Smudges Yet - West Bay, Cayman Islands"
+          />
         </a>
       </SRLWrapper>
       <GoToTop />

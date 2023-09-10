@@ -127,7 +127,10 @@ const Nostalgia = () => {
           />
         </a>
         <a href={nostalgia15}>
-          <img src={nostalgia15thumbnail} alt=" - Rum Point, Cayman Islands" />
+          <img
+            src={nostalgia15thumbnail}
+            alt="Grounded Oscillations - Rum Point, Cayman Islands"
+          />
         </a>
 
         <a href={nostalgia10}>
@@ -137,7 +140,10 @@ const Nostalgia = () => {
           />
         </a>
         <a href={nostalgia16}>
-          <img src={nostalgia16thumbnail} alt=" - Rum Point, Cayman Islands" />
+          <img
+            src={nostalgia16thumbnail}
+            alt="Familiar Embrace - Rum Point, Cayman Islands"
+          />
         </a>
       </SRLWrapper>
       <GoToTop />

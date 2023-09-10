@@ -133,7 +133,10 @@ const Tranquility = () => {
           />
         </a>
         <a href={tranquility25}>
-          <img src={tranquility25thumbnail} alt=" - West Bay, Cayman Islands" />
+          <img
+            src={tranquility25thumbnail}
+            alt="Careful Ponds- West Bay, Cayman Islands"
+          />
         </a>
         <a href={tranquility11}>
           <img
@@ -191,7 +194,10 @@ const Tranquility = () => {
           />
         </a>
         <a href={tranquility24}>
-          <img src={tranquility24thumbnail} alt=" - West Bay, Cayman Islands" />
+          <img
+            src={tranquility24thumbnail}
+            alt="Mindful Shards - West Bay, Cayman Islands"
+          />
         </a>
         <a href={tranquility20}>
           <img
@@ -222,7 +228,7 @@ const Tranquility = () => {
         <a href={tranquility27}>
           <img
             src={tranquility27thumbnail}
-            alt=" - Rum Point, Cayman Islands"
+            alt="Storms May Come, I Rise - Rum Point, Cayman Islands"
           />
         </a>
 
@@ -233,7 +239,10 @@ const Tranquility = () => {
           />
         </a>
         <a href={tranquility26}>
-          <img src={tranquility26thumbnail} alt=" - West Bay, Cayman Islands" />
+          <img
+            src={tranquility26thumbnail}
+            alt=" Slippery - West Bay, Cayman Islands"
+          />
         </a>
       </SRLWrapper>
       <GoToTop />

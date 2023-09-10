@@ -30,7 +30,7 @@ import joy24 from "./full-size/joy24.jpg";
 import joy25 from "./full-size/joy25.jpeg";
 import joy26 from "./full-size/joy26.jpg";
 import joy27 from "./full-size/joy27.jpg";
-import joy28 from "./full-size/joy25.jpeg";
+import joy28 from "./full-size/joy28.JPEG";
 
 import joy1thumbnail from "./thumbnails/joy1thumbnail.jpg";
 import joy2thumbnail from "./thumbnails/joy2thumbnail.jpg";
@@ -60,15 +60,16 @@ import joy25thumbnail from "./thumbnails/joy25thumbnail.jpg";
 import joy26thumbnail from "./thumbnails/joy26thumbnail.jpg";
 import joy27thumbnail from "./thumbnails/joy27thumbnail.jpeg";
 import joy28thumbnail from "./thumbnails/joy28thumbnail.jpeg";
-import despair29 from "../Despair/full-size/despair29.jpg";
-import despair29thumbnail from "../Despair/thumbnails/despair29thumbnail.jpeg";
 
 const Joy = () => {
   return (
     <section className="gallery">
       <SRLWrapper>
         <a href={joy27}>
-          <img src={joy27thumbnail} alt=" - Rum Point, Cayman Islands" />
+          <img
+            src={joy27thumbnail}
+            alt="Tactile Greetings - Rum Point, Cayman Islands"
+          />
         </a>
         <a href={joy1}>
           <img
@@ -140,7 +141,10 @@ const Joy = () => {
           />
         </a>
         <a href={joy28}>
-          <img src={joy28thumbnail} alt=" - Rum Point, Cayman Islands" />
+          <img
+            src={joy28thumbnail}
+            alt="If Stars Could Melt- Rum Point, Cayman Islands"
+          />
         </a>
         <a href={joy14}>
           <img
@@ -223,7 +227,10 @@ const Joy = () => {
           />
         </a>
         <a href={joy26}>
-          <img src={joy26thumbnail} alt=" - West Bay, Cayman Islands" />
+          <img
+            src={joy26thumbnail}
+            alt=" Spin, Skip, Ha !- West Bay, Cayman Islands"
+          />
         </a>
       </SRLWrapper>
       <GoToTop />
