@@ -19,13 +19,17 @@ import tranquility13 from "./full-size/tranquility13.jpeg";
 import tranquility14 from "./full-size/tranquility14.jpeg";
 import tranquility15 from "./full-size/tranquility15.jpg";
 import tranquility16 from "./full-size/tranquility16.jpeg";
+import tranquility17 from "./full-size/tranquility17.jpg";
 import tranquility18 from "./full-size/tranquility18.jpeg";
 import tranquility19 from "./full-size/tranquility19.jpg";
 import tranquility20 from "./full-size/tranquility20.jpg";
 import tranquility21 from "./full-size/tranquility21.jpg";
 import tranquility22 from "./full-size/tranquility22.jpg";
 import tranquility23 from "./full-size/tranquility23.jpg";
-import tranquility17 from "./full-size/tranquility17.jpg";
+import tranquility24 from "./full-size/tranquility24.jpg";
+import tranquility25 from "./full-size/tranquility25.jpg";
+import tranquility26 from "./full-size/tranquility26.jpg";
+import tranquility27 from "./full-size/tranquility27.jpg";
 
 import tranquility1thumbnail from "./thumbnails/tranquility1thumbnail.jpg";
 import tranquility2thumbnail from "./thumbnails/tranquility2thumbnail.jpg";
@@ -43,13 +47,17 @@ import tranquility13thumbnail from "./thumbnails/tranquility13thumbnail.jpg";
 import tranquility14thumbnail from "./thumbnails/tranquility14thumbnail.jpg";
 import tranquility15thumbnail from "./thumbnails/tranquility15thumbnail.jpg";
 import tranquility16thumbnail from "./thumbnails/tranquility16thumbnail.jpg";
+import tranquility17thumbnail from "./thumbnails/tranquility17thumbnail.jpg";
 import tranquility18thumbnail from "./thumbnails/tranquility18thumbnail.jpg";
 import tranquility19thumbnail from "./thumbnails/tranquility19thumbnail.jpg";
 import tranquility20thumbnail from "./thumbnails/tranquility20thumbnail.jpg";
 import tranquility21thumbnail from "./thumbnails/tranquility21thumbnail.jpg";
 import tranquility22thumbnail from "./thumbnails/tranquility22thumbnail.jpg";
 import tranquility23thumbnail from "./thumbnails/tranquility23thumbnail.jpg";
-import tranquility17thumbnail from "./thumbnails/tranquility17thumbnail.jpg";
+import tranquility24thumbnail from "./thumbnails/tranquility24thumbnail.jpeg";
+import tranquility25thumbnail from "./thumbnails/tranquility25thumbnail.jpeg";
+import tranquility26thumbnail from "./thumbnails/tranquility26thumbnail.jpeg";
+import tranquility27thumbnail from "./thumbnails/tranquility27thumbnail.jpeg";
 
 const Tranquility = () => {
   return (
@@ -124,7 +132,9 @@ const Tranquility = () => {
             alt="Morning Dawning - Poughkeepsie, New York"
           />
         </a>
-
+        <a href={tranquility25}>
+          <img src={tranquility25thumbnail} alt=" - West Bay, Cayman Islands" />
+        </a>
         <a href={tranquility11}>
           <img
             src={tranquility11thumbnail}
@@ -180,7 +190,9 @@ const Tranquility = () => {
             alt="Restful Meditations - Panama City, Panama"
           />
         </a>
-
+        <a href={tranquility24}>
+          <img src={tranquility24thumbnail} alt=" - West Bay, Cayman Islands" />
+        </a>
         <a href={tranquility20}>
           <img
             src={tranquility20thumbnail}
@@ -195,17 +207,22 @@ const Tranquility = () => {
           />
         </a>
 
+        <a href={tranquility23}>
+          <img
+            src={tranquility23thumbnail}
+            alt="Rigid Thoughts among Calm Waters - Cacique, Colon, Panama"
+          />
+        </a>
         <a href={tranquility22}>
           <img
             src={tranquility22thumbnail}
             alt="Nurturing Roots - Cacique, Colon, Panama"
           />
         </a>
-
-        <a href={tranquility23}>
+        <a href={tranquility27}>
           <img
-            src={tranquility23thumbnail}
-            alt="Rigid Thoughts among Calm Waters - Cacique, Colon, Panama"
+            src={tranquility27thumbnail}
+            alt=" - Rum Point, Cayman Islands"
           />
         </a>
 
@@ -214,6 +231,9 @@ const Tranquility = () => {
             src={tranquility17thumbnail}
             alt="Enclosure of Serenity - Portobelo, Panama"
           />
+        </a>
+        <a href={tranquility26}>
+          <img src={tranquility26thumbnail} alt=" - West Bay, Cayman Islands" />
         </a>
       </SRLWrapper>
       <GoToTop />

@@ -13,7 +13,6 @@ import despair7 from "./full-size/despair7.jpg";
 import despair8 from "./full-size/despair8.jpg";
 import despair9 from "./full-size/despair9.jpeg";
 import despair10 from "./full-size/despair10.jpeg";
-
 import despair11 from "./full-size/despair11.jpg";
 import despair12 from "./full-size/despair12.jpg";
 import despair13 from "./full-size/despair13.jpg";
@@ -29,6 +28,11 @@ import despair22 from "./full-size/despair22.jpg";
 import despair23 from "./full-size/despair23.jpg";
 import despair24 from "./full-size/despair24.jpg";
 import despair25 from "./full-size/despair25.jpg";
+import despair26 from "./full-size/despair26.jpg";
+import despair27 from "./full-size/despair27.jpg";
+import despair28 from "./full-size/despair28.jpg";
+import despair29 from "./full-size/despair29.jpg";
+import despair30 from "./full-size/despair30.jpg";
 
 import despair1thumbnail from "./thumbnails/despair1thumbnail.jpg";
 import despair2thumbnail from "./thumbnails/despair2thumbnail.jpg";
@@ -40,10 +44,9 @@ import despair7thumbnail from "./thumbnails/despair7thumbnail.jpg";
 import despair8thumbnail from "./thumbnails/despair8thumbnail.jpg";
 import despair9thumbnail from "./thumbnails/despair9thumbnail.jpg";
 import despair10thumbnail from "./thumbnails/despair10thumbnail.jpg";
-
 import despair11thumbnail from "./thumbnails/despair11thumbnail.jpg";
 import despair12thumbnail from "./thumbnails/despair12thumbnail.jpg";
-import despair13thumbnail from "./thumbnails/despair13thumbnail.jpg";
+import despair13thumbnail from "./thumbnails/despair13thumbnail.jpeg";
 import despair14thumbnail from "./thumbnails/despair14thumbnail.jpg";
 import despair15thumbnail from "./thumbnails/despair15thumbnail.jpg";
 import despair16thumbnail from "./thumbnails/despair16thumbnail.jpg";
@@ -56,17 +59,20 @@ import despair22thumbnail from "./thumbnails/despair22thumbnail.jpg";
 import despair23thumbnail from "./thumbnails/despair23thumbnail.jpg";
 import despair24thumbnail from "./thumbnails/despair24thumbnail.jpg";
 import despair25thumbnail from "./thumbnails/despair25thumbnail.jpg";
+import despair26thumbnail from "./thumbnails/despair26thumbnail.jpeg";
+import despair27thumbnail from "./thumbnails/despair27thumbnail.jpeg";
+import despair28thumbnail from "./thumbnails/despair28thumbnail.jpeg";
+import despair29thumbnail from "./thumbnails/despair29thumbnail.jpeg";
+import despair30thumbnail from "./thumbnails/despair30thumbnail.jpeg";
 
 const Despair = () => {
   return (
     <section className="gallery">
       <SRLWrapper>
-        <a href={despair20}>
-          <img
-            src={despair20thumbnail}
-            alt="Do you see us?  - Panama City, Panama"
-          />
+        <a href={despair30}>
+          <img src={despair30thumbnail} alt=" - Rum Point, Cayman Islands" />
         </a>
+
         <a href={despair1}>
           <img
             src={despair1thumbnail}
@@ -136,10 +142,7 @@ const Despair = () => {
         </a>
 
         <a href={despair13}>
-          <img
-            src={despair13thumbnail}
-            alt="Tired of Leading the Flock - Panama City, Panama"
-          />
+          <img src={despair13thumbnail} alt="- West Bay, Cayman Islands" />
         </a>
 
         <a href={despair14}>
@@ -213,6 +216,25 @@ const Despair = () => {
             src={despair25thumbnail}
             alt="Isolated Fruit - Isla Mamey, Colón, Panama"
           />
+        </a>
+
+        <a href={despair26}>
+          <img src={despair26thumbnail} alt=" - Rum Point, Cayman Islands" />
+        </a>
+        <a href={despair20}>
+          <img
+            src={despair20thumbnail}
+            alt="Do you see us?  - Panama City, Panama"
+          />
+        </a>
+        <a href={despair27}>
+          <img src={despair27thumbnail} alt=" - Rum Point, Cayman Islands" />
+        </a>
+        <a href={despair28}>
+          <img src={despair28thumbnail} alt=" - West Bay, Cayman Islands" />
+        </a>
+        <a href={despair29}>
+          <img src={despair29thumbnail} alt=" - West Bay, Cayman Islands" />
         </a>
       </SRLWrapper>
       <GoToTop />

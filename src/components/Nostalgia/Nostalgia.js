@@ -17,6 +17,8 @@ import nostalgia11 from "./full-size/nostalgia11.jpg";
 import nostalgia12 from "./full-size/nostalgia12.jpg";
 import nostalgia13 from "./full-size/nostalgia13.jpg";
 import nostalgia14 from "./full-size/nostalgia14.jpg";
+import nostalgia15 from "./full-size/nostalgia15.jpg";
+import nostalgia16 from "./full-size/nostalgia16.jpg";
 
 import nostalgia1thumbnail from "./thumbnails/nostalgia1thumbnail.jpg";
 import nostalgia2thumbnail from "./thumbnails/nostalgia2thumbnail.jpg";
@@ -32,6 +34,8 @@ import nostalgia11thumbnail from "./thumbnails/nostalgia11thumbnail.jpg";
 import nostalgia12thumbnail from "./thumbnails/nostalgia12thumbnail.jpg";
 import nostalgia13thumbnail from "./thumbnails/nostalgia13thumbnail.jpg";
 import nostalgia14thumbnail from "./thumbnails/nostalgia14thumbnail.jpg";
+import nostalgia15thumbnail from "./thumbnails/nostalgia15thumbnail.jpeg";
+import nostalgia16thumbnail from "./thumbnails/nostalgia16thumbnail.jpeg";
 
 const Nostalgia = () => {
   return (
@@ -122,12 +126,18 @@ const Nostalgia = () => {
             alt="REM Sleep - Cacique, Colon, Panama"
           />
         </a>
+        <a href={nostalgia15}>
+          <img src={nostalgia15thumbnail} alt=" - Rum Point, Cayman Islands" />
+        </a>
 
         <a href={nostalgia10}>
           <img
             src={nostalgia10thumbnail}
             alt="Fabric of Fairytales - Cacique, Colon, Panama"
           />
+        </a>
+        <a href={nostalgia16}>
+          <img src={nostalgia16thumbnail} alt=" - Rum Point, Cayman Islands" />
         </a>
       </SRLWrapper>
       <GoToTop />

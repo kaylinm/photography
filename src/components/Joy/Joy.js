@@ -28,6 +28,9 @@ import joy22 from "./full-size/joy22.png";
 import joy23 from "./full-size/joy23.jpg";
 import joy24 from "./full-size/joy24.jpg";
 import joy25 from "./full-size/joy25.jpeg";
+import joy26 from "./full-size/joy26.jpg";
+import joy27 from "./full-size/joy27.jpg";
+import joy28 from "./full-size/joy25.jpeg";
 
 import joy1thumbnail from "./thumbnails/joy1thumbnail.jpg";
 import joy2thumbnail from "./thumbnails/joy2thumbnail.jpg";
@@ -54,11 +57,19 @@ import joy22thumbnail from "./thumbnails/joy22thumbnail.jpg";
 import joy23thumbnail from "./thumbnails/joy23thumbnail.jpg";
 import joy24thumbnail from "./thumbnails/joy24thumbnail.jpg";
 import joy25thumbnail from "./thumbnails/joy25thumbnail.jpg";
+import joy26thumbnail from "./thumbnails/joy26thumbnail.jpg";
+import joy27thumbnail from "./thumbnails/joy27thumbnail.jpeg";
+import joy28thumbnail from "./thumbnails/joy28thumbnail.jpeg";
+import despair29 from "../Despair/full-size/despair29.jpg";
+import despair29thumbnail from "../Despair/thumbnails/despair29thumbnail.jpeg";
 
 const Joy = () => {
   return (
     <section className="gallery">
       <SRLWrapper>
+        <a href={joy27}>
+          <img src={joy27thumbnail} alt=" - Rum Point, Cayman Islands" />
+        </a>
         <a href={joy1}>
           <img
             src={joy1thumbnail}
@@ -128,7 +139,9 @@ const Joy = () => {
             alt="Capacity for Growth - Joshua Tree, California"
           />
         </a>
-
+        <a href={joy28}>
+          <img src={joy28thumbnail} alt=" - Rum Point, Cayman Islands" />
+        </a>
         <a href={joy14}>
           <img
             src={joy14thumbnail}
@@ -208,6 +221,9 @@ const Joy = () => {
             src={joy25thumbnail}
             alt="Slowly, We Walked - Joshua Tree, California"
           />
+        </a>
+        <a href={joy26}>
+          <img src={joy26thumbnail} alt=" - West Bay, Cayman Islands" />
         </a>
       </SRLWrapper>
       <GoToTop />
