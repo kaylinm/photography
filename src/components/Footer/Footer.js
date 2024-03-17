@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <section className="footer">
-      <p>&copy;COPYRIGHT KAYLIN MOSS 2023</p>
+      <p>&copy;COPYRIGHT KAYLIN MOSS {new Date().getFullYear()}</p>
     </section>
   );
 };

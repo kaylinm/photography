@@ -9,10 +9,7 @@ const About = () => {
     <main>
       <section className="about">
         <div className="column">
-          <h1>
-            Landscape photographer + <br />
-            Computer scientist
-          </h1>
+          <h1>Landscape photographer</h1>
           <h2>Awards —</h2>
           <a
             href="https://www.instagram.com/p/CErVYMjDjIS/?utm_source=ig_web_copy_link"
@@ -48,12 +45,8 @@ const About = () => {
             <Link to="/joy">Joy</Link>, plays with shadows in{" "}
             <Link to="/despair">Despair</Link>, and creates unique waterscapes
             in <Link to="/tranquility">Tranquility</Link>.
-            <br />
-            <br />
-            Kaylin is currently a computer science student at Marist College in
-            Poughkeepsie, New York.
           </p>
-          <br />
+
           <h2>Contact —</h2>
           <a href="mailto:kaylin.moss1@gmail.com">kaylin.moss1@gmail.com</a>
           <br />

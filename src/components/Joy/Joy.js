@@ -31,6 +31,9 @@ import joy25 from "./full-size/joy25.jpeg";
 import joy26 from "./full-size/joy26.jpg";
 import joy27 from "./full-size/joy27.jpg";
 import joy28 from "./full-size/joy28.JPEG";
+import joy29 from "./full-size/joy29.jpeg";
+import joy30 from "./full-size/joy30.jpeg";
+import joy31 from "./full-size/joy31.jpeg";
 
 import joy1thumbnail from "./thumbnails/joy1thumbnail.jpg";
 import joy2thumbnail from "./thumbnails/joy2thumbnail.jpg";
@@ -60,11 +63,17 @@ import joy25thumbnail from "./thumbnails/joy25thumbnail.jpg";
 import joy26thumbnail from "./thumbnails/joy26thumbnail.jpg";
 import joy27thumbnail from "./thumbnails/joy27thumbnail.jpeg";
 import joy28thumbnail from "./thumbnails/joy28thumbnail.jpeg";
+import joy29thumbnail from "./thumbnails/joy29thumbnail.jpeg";
+import joy30thumbnail from "./thumbnails/joy30thumbnail.jpeg";
+import joy31thumbnail from "./thumbnails/joy31thumbnail.jpeg";
 
 const Joy = () => {
   return (
     <section className="gallery">
       <SRLWrapper>
+        <a href={joy29}>
+          <img src={joy29thumbnail} alt="When you Grow - Todd, NC" />
+        </a>
         <a href={joy27}>
           <img
             src={joy27thumbnail}
@@ -111,7 +120,12 @@ const Joy = () => {
             alt="JUMP! - Mount Pleasant, South Carolina"
           />
         </a>
-
+        <a href={joy31}>
+          <img
+            src={joy31thumbnail}
+            alt="All are Welcome - Blue Ridge Parkway, NC"
+          />
+        </a>
         <a href={joy9}>
           <img
             src={joy9thumbnail}
@@ -231,6 +245,9 @@ const Joy = () => {
             src={joy26thumbnail}
             alt=" Spin, Skip, Ha !- West Bay, Cayman Islands"
           />
+        </a>
+        <a href={joy30}>
+          <img src={joy30thumbnail} alt="Free Tickles - Todd, NC" />
         </a>
       </SRLWrapper>
       <GoToTop />

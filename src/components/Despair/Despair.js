@@ -33,6 +33,9 @@ import despair27 from "./full-size/despair27.jpg";
 import despair28 from "./full-size/despair28.jpg";
 import despair29 from "./full-size/despair29.jpg";
 import despair30 from "./full-size/despair30.jpg";
+import despair31 from "./full-size/despair31.jpeg";
+import despair32 from "./full-size/despair32.jpg";
+import despair33 from "./full-size/despair33.jpg";
 
 import despair1thumbnail from "./thumbnails/despair1thumbnail.jpg";
 import despair2thumbnail from "./thumbnails/despair2thumbnail.jpg";
@@ -64,6 +67,9 @@ import despair27thumbnail from "./thumbnails/despair27thumbnail.jpeg";
 import despair28thumbnail from "./thumbnails/despair28thumbnail.jpeg";
 import despair29thumbnail from "./thumbnails/despair29thumbnail.jpeg";
 import despair30thumbnail from "./thumbnails/despair30thumbnail.jpeg";
+import despair31thumbnail from "./thumbnails/despair31thumbnail.jpeg";
+import despair32thumbnail from "./full-size/despair32.jpg";
+import despair33thumbnail from "./thumbnails/despair33thumbnail.jpeg";
 
 const Despair = () => {
   return (
@@ -252,6 +258,24 @@ const Despair = () => {
           <img
             src={despair29thumbnail}
             alt="No Smudges Yet - West Bay, Cayman Islands"
+          />
+        </a>
+        <a href={despair32}>
+          <img
+            src={despair32thumbnail}
+            alt="Can we Save Us ? - New River, Todd, NC"
+          />
+        </a>
+        <a href={despair31}>
+          <img
+            src={despair31thumbnail}
+            alt=" Dilapidated- New River, Todd, NC"
+          />
+        </a>
+        <a href={despair33}>
+          <img
+            src={despair33thumbnail}
+            alt="We have to - New River, Todd, NC"
           />
         </a>
       </SRLWrapper>

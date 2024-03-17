@@ -30,6 +30,7 @@ import tranquility24 from "./full-size/tranquility24.jpg";
 import tranquility25 from "./full-size/tranquility25.jpg";
 import tranquility26 from "./full-size/tranquility26.jpg";
 import tranquility27 from "./full-size/tranquility27.jpg";
+import tranquility28 from "./full-size/tranquility28.jpeg";
 
 import tranquility1thumbnail from "./thumbnails/tranquility1thumbnail.jpg";
 import tranquility2thumbnail from "./thumbnails/tranquility2thumbnail.jpg";
@@ -58,6 +59,7 @@ import tranquility24thumbnail from "./thumbnails/tranquility24thumbnail.jpeg";
 import tranquility25thumbnail from "./thumbnails/tranquility25thumbnail.jpeg";
 import tranquility26thumbnail from "./thumbnails/tranquility26thumbnail.jpeg";
 import tranquility27thumbnail from "./thumbnails/tranquility27thumbnail.jpeg";
+import tranquility28thumbnail from "./thumbnails/tranquility28thumbnail.jpeg";
 
 const Tranquility = () => {
   return (
@@ -102,6 +104,13 @@ const Tranquility = () => {
           <img
             src={tranquility6thumbnail}
             alt="Abide a While - Isle of Palms, South Carolina"
+          />
+        </a>
+
+        <a href={tranquility28}>
+          <img
+            src={tranquility28thumbnail}
+            alt="On the Way - Blue Ridge Parkway, NC"
           />
         </a>
 
