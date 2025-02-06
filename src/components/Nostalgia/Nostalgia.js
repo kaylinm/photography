@@ -20,6 +20,7 @@ import nostalgia14 from "./full-size/nostalgia14.jpg";
 import nostalgia15 from "./full-size/nostalgia15.jpg";
 import nostalgia16 from "./full-size/nostalgia16.jpg";
 import nostalgia17 from "./full-size/nostalgia17.jpeg";
+import nostalgia18 from "./full-size/nostalgia18.JPG";
 
 import nostalgia1thumbnail from "./thumbnails/nostalgia1thumbnail.jpg";
 import nostalgia2thumbnail from "./thumbnails/nostalgia2thumbnail.jpg";
@@ -38,6 +39,7 @@ import nostalgia14thumbnail from "./thumbnails/nostalgia14thumbnail.jpg";
 import nostalgia15thumbnail from "./thumbnails/nostalgia15thumbnail.jpeg";
 import nostalgia16thumbnail from "./thumbnails/nostalgia16thumbnail.jpeg";
 import nostalgia17thumbnail from "./thumbnails/nostalgia17thumbnail.jpeg";
+import nostalgia18thumbnail from "./thumbnails/nostalgia18thumbnail.jpg";
 
 const Nostalgia = () => {
   return (
@@ -152,6 +154,12 @@ const Nostalgia = () => {
           <img
             src={nostalgia17thumbnail}
             alt="Iridescence - New River, Todd,  NC"
+          />
+        </a>
+        <a href={nostalgia18}>
+          <img
+            src={nostalgia18thumbnail}
+            alt="Polar Dawn - Isle of Palms, SC"
           />
         </a>
       </SRLWrapper>
