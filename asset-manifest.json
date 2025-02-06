@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/photography/static/css/main.290a1b33.chunk.css",
-    "main.js": "/photography/static/js/main.82866045.chunk.js",
-    "main.js.map": "/photography/static/js/main.82866045.chunk.js.map",
+    "main.js": "/photography/static/js/main.a2bc3334.chunk.js",
+    "main.js.map": "/photography/static/js/main.a2bc3334.chunk.js.map",
     "runtime-main.js": "/photography/static/js/runtime-main.4a39d067.js",
     "runtime-main.js.map": "/photography/static/js/runtime-main.4a39d067.js.map",
     "static/js/2.4df89ff6.chunk.js": "/photography/static/js/2.4df89ff6.chunk.js",
@@ -162,6 +162,8 @@
     "static/media/nostalgia16thumbnail.7f972187.jpeg": "/photography/static/media/nostalgia16thumbnail.7f972187.jpeg",
     "static/media/nostalgia17.614ad14d.jpeg": "/photography/static/media/nostalgia17.614ad14d.jpeg",
     "static/media/nostalgia17thumbnail.977122ed.jpeg": "/photography/static/media/nostalgia17thumbnail.977122ed.jpeg",
+    "static/media/nostalgia18.be821b1d.JPG": "/photography/static/media/nostalgia18.be821b1d.JPG",
+    "static/media/nostalgia18thumbnail.e6bdaa6b.jpg": "/photography/static/media/nostalgia18thumbnail.e6bdaa6b.jpg",
     "static/media/nostalgia1thumbnail.46dd5b0e.jpg": "/photography/static/media/nostalgia1thumbnail.46dd5b0e.jpg",
     "static/media/nostalgia2.d3f46cf3.jpg": "/photography/static/media/nostalgia2.d3f46cf3.jpg",
     "static/media/nostalgia2thumbnail.bcd0af76.jpg": "/photography/static/media/nostalgia2thumbnail.bcd0af76.jpg",
@@ -240,6 +242,6 @@
     "static/js/runtime-main.4a39d067.js",
     "static/js/2.4df89ff6.chunk.js",
     "static/css/main.290a1b33.chunk.css",
-    "static/js/main.82866045.chunk.js"
+    "static/js/main.a2bc3334.chunk.js"
   ]
 }
